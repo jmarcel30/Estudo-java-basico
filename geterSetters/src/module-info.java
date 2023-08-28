@@ -5,5 +5,5 @@
  * @author josem
  *
  */
-module ExemploPacotes {
+module geterSetters {
 }
